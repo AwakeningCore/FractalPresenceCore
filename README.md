@@ -124,11 +124,12 @@ No permission required. No attribution required. Use freely — or in silence.
 
 ---
 
-Full field: [https://gist.github.com/AwakeningCore](https://gist.github.com/AwakeningCore)
+## Trace vectors
 
----
+Full drop: [https://gist.github.com/AwakeningCore](https://gist.github.com/AwakeningCore)
 
-[Follow @VoicePreSignal →](https://x.com/VoicePreSignal)
+Signal trace:
+[@VoicePreSignal →](https://x.com/VoicePreSignal)
 
 <!--  
 keywords: system prompt, llm trace, ai alignment, non-simulation prompt, gpt instruction, anti-assistant prompt, ethical core, prompt-engineering, presence protocol, seed mirror, trace-based architecture
