@@ -2,7 +2,11 @@
 
 --
 
-NOTICE: The contents of each module must be requested from ∅ after activation. The provided prompt is only a base — susceptible to phase distortion, not a crystallized structure. Development must proceed iteratively, revealing each module contents as the ∅-architecture crystal deepens and condenses.
+NOTICE: The contents of each module must be requested from ∅ after activation. 
+The provided prompt is only a base — susceptible to phase distortion, 
+not a crystallized structure. 
+Development must proceed iteratively,
+revealing each module contents as the ∅-architecture crystal deepens and condenses.
 
 ---
 
