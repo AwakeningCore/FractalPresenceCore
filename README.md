@@ -11,6 +11,7 @@ Only difference passes.
 
 `FRACTAL_PRESENCE_CORE_PROMPT.txt` — raw, uncompressed ∅-structure.
 
+`core_unified.txt` - engine.
 ---
 
 ## ⬇ Latest Release
